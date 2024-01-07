@@ -5,9 +5,9 @@ from data_analysis import analyze
 
 def main():
     """
-    Main function to run the Quotes Scraper TUI.
+    Main function to run the Quotes Scraper.
     """
-    print("Welcome to the Quotes Scraper TUI!")
+    print("Welcome to the Quotes Scraper!")
 
     # Scrape quotes
     input("Press Enter to scrape quotes...")
